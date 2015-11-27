@@ -268,4 +268,5 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g4stylus-common/proprietary/etc/firmware/wcnss.b09:system/etc/firmware/wcnss.b09 \
     vendor/lge/g4stylus-common/proprietary/etc/firmware/wcnss.b10:system/etc/firmware/wcnss.b10 \
     vendor/lge/g4stylus-common/proprietary/etc/firmware/wcnss.b11:system/etc/firmware/wcnss.b11 \
-    vendor/lge/g4stylus-common/proprietary/etc/firmware/wcnss.mdt:system/etc/firmware/wcnss.mdt
+    vendor/lge/g4stylus-common/proprietary/etc/firmware/wcnss.mdt:system/etc/firmware/wcnss.mdt \
+	vendor/lge/g4stylus-common/proprietary/etc/init.d/led.sh:system/etc/init.d/led.sh
